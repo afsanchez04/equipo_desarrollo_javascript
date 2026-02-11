@@ -30,4 +30,12 @@
 =======
 - Nombre: Samuel Frias Contreras
 - Cuenta: friassamuel0829@gmail.com
+<<<<<<< HEAD
 >>>>>>> 94b83eb00db7dae99678f258febf5d35093a7872
+=======
+
+//------------------------//
+
+- Nombre: Ana
+- Cuenta: an-Start
+>>>>>>> 74308312a9913670f3f8d45a6b156be8f23873b9
