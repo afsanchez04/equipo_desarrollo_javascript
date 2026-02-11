@@ -10,17 +10,12 @@
 - Nombre: Pepe
 - Cuenta:
 
-##
-
-- Nombre: Antonio Guevara
-- Cuenta: Antonio-masapan
-
-##
-
-- Nombre: Erika Barraza
-- Cuenta: https://github.com/yepono/TiendaLibros
-
-##
+//------------------------//
 
 - Nombre: Néstor A. López
-- Cuenta: NestorALopez
+- Cuenta: rohastro.09@gmail.com
+
+//------------------------//
+
+- Nombre: Samuel Frias Contreras
+- Cuenta: friassamuel0829@gmail.com
