@@ -10,26 +10,24 @@
 - Nombre: Pepe
 - Cuenta:
 
-##
-
-- Nombre: Antonio Guevara
-- Cuenta: Antonio-masapan
-
-##
-
-- Nombre: Erika Barraza
-- Cuenta: https://github.com/yepono/TiendaLibros
-
-##
+//------------------------//
 
 - Nombre: Néstor A. López
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 94b83eb00db7dae99678f258febf5d35093a7872
 - Cuenta: rohastro.09@gmail.com
 
 //------------------------//
 
+<<<<<<< HEAD
 - Nombre: Ashley Sanchez H.
 - Cuenta: akisan862@gmail.com
 =======
 - Cuenta: NestorALopez
 >>>>>>> 1fb16e0fd77418986fa36f6a069d078e226f8674
+=======
+- Nombre: Samuel Frias Contreras
+- Cuenta: friassamuel0829@gmail.com
+>>>>>>> 94b83eb00db7dae99678f258febf5d35093a7872
