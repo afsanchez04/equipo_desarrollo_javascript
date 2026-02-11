@@ -42,3 +42,8 @@
 
 - Nombre: Cecilia Lopez
 - Cuenta: lopezmanuelcecilia-bot
+
+---
+
+- Nombre: Gian Marco
+- Cuenta: GeneralByte171
