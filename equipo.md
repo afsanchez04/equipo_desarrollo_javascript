@@ -1,7 +1,9 @@
 ## Nombre y cuenta de GitHub de los desarrolladores
 
-- Nombre: Pepe
-- Cuenta:
+### git pull, git status, git add ., git commit, git push
+
+- Nombre: Andres
+- Cuenta: abc.com
 
 ##
 
