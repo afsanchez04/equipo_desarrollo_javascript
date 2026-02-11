@@ -19,3 +19,8 @@
 
 - Nombre: Erika Barraza
 - Cuenta: https://github.com/yepono/TiendaLibros
+
+##
+
+- Nombre: Néstor A. López
+- Cuenta: NestorALopez
