@@ -39,3 +39,8 @@
 
 - Nombre: Gian Marco
 - Cuenta: GeneralByte171
+
+//------------------------//
+
+- Nombre: David Zuñiga
+- Cuenta: davidit-rgb
