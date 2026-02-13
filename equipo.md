@@ -54,3 +54,8 @@
 
 - Nombre: Jose Lagarda
 - Cuenta: chemalt
+
+//------------------------//
+
+- Nombre: Edwin Borbollon
+- Cuenta: CrowZ44
