@@ -49,3 +49,8 @@
 
 - Nombre: Natalia Macías García
 - Cuenta: NataliaMacias02
+
+//------------------------//
+
+- Nombre: Jose Lagarda
+- Cuenta: chemalt
