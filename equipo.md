@@ -64,3 +64,9 @@
 
 - Nombre: América Alarcón Ponce
 - Cuenta: ErikamPonce
+
+//------------------------//
+- Nombre: Eduardo D´ Alessandro Sánchez Dianas
+- Cuenta: webjob77
+
+//------------------------//
