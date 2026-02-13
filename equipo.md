@@ -5,17 +5,12 @@
 - Nombre: Andres
 - Cuenta: abc.com
 
-##
+//------------------------//
 
 - Nombre: Pepe
-- Cuenta:
+- Cuenta: 
 
 ##
 
 - Nombre: Antonio Guevara
 - Cuenta: Antonio-masapan
-
-## 
-
-- Nombre: Angeles Osorio Z
-- Cuenta: AngieMoonTS25
