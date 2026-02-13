@@ -44,3 +44,8 @@
 
 - Nombre: David Zuñiga
 - Cuenta: davidit-rgb
+
+//------------------------//
+
+- Nombre: Natalia Macías García
+- Cuenta: NataliaMacias02
